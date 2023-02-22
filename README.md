@@ -30,3 +30,5 @@ adding new features
 5. Push the code to remote
 6. Create a pull request to merge feature branch into main/master
 7. Merge the code once approved
+
+git revert/undo/drop commits
