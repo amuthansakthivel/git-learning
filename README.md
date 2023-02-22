@@ -14,7 +14,17 @@ git push
 3. github accout setup in intellij
 
 git pull
+1. Get the latest changes from remote to working copy
+2. pull = fetch + merge
 
 git branches
+1. Branches create a new line of development without affecting the master/main branch
 
 adding new features
+1. Pull the latest changes from remote
+2. Create a branch
+3. Make changes/implement the feature
+4. Commit the changes. (Keep commits atomic)
+5. Push the code to remote
+6. Create a pull request to merge feature branch into main/master
+7. Merge the code once approved
