@@ -1,3 +1,5 @@
+Google slides : [link](https://docs.google.com/presentation/d/1zre0xHSBl1OtYG24TYWcj94gMQXPfDR3MODGfdKFuLM/edit#slide=id.g20f7353040a_0_59)
+
 git init 
 1. create git repo (.git folder)
 2. un-versioned project --> versioned
