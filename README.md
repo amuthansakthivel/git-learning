@@ -31,4 +31,4 @@ adding new features
 6. Create a pull request to merge feature branch into main/master
 7. Merge the code once approved
 
-git revert/undo/drop commits
+git revert/undo/drop x-commits
